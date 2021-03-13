@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    position: relative;
+    padding: 10px 15px 10px 15px;
+}
+nav ul li a{
+    text-decoration: none; /* a etiketi altındaki çizgiyi kaldırma */
+}
+h1,h2,h3,h4{
+    color: #046582;
+}
+a{
+    color: #f39189
+}
+div ul,ol li{
+    list-style-position: inside;
+}
+.urunler ol li img{
+    height: 250px;
+}
