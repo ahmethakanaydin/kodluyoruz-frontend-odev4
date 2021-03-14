@@ -1,5 +1,5 @@
 # Kodluyoruz Front-End Eğitimi 4.Ödev
-Bu repo Kodluyoruz Front-End Eğitiminde verilen 4.Ödevi içeriyor. İçerisinde README.md, index.html, urunlerimiz.html ve hakkimizda.hmtl barındırıyor.
+Bu repo Kodluyoruz Front-End Eğitiminde verilen 4.Ödevi içeriyor. İçerisinde README.md, index.html, urunlerimiz.html ve hakkimizda.html barındırıyor.
 
 ## Installation
 Öncelikle projeyi clonelayın.
